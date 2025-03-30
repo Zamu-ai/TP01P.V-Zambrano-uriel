@@ -1,1 +1,1 @@
-Trabajo practico de porgramcion visual
+Trabajo practico de programacion visual
